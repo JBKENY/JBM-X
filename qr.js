@@ -59,9 +59,9 @@ router.get('/', async (req, res) => {
 				   let session = await Qr_Code_By_France_King.sendMessage(Qr_Code_By_France_King.user.id, { text: 'TOPU;;;' + b64data });
 	
 				   let FLASH_MD_TEXT = `
-*𝑩𝑨𝑹𝑨𝑲𝑨-𝑴𝑫-𝐵𝑂𝑇 𝑺𝑬𝑺𝑺𝑰𝑶𝑵 𝑪𝑶𝑵𝑵𝑬𝑪𝑻𝑬𝑫*
+*JBM-XMD 𝑺𝑬𝑺𝑺𝑰𝑶𝑵 𝑪𝑶𝑵𝑵𝑬𝑪𝑻𝑬𝑫*
 
-❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒
+welcome to JBM-XMD,  FEEL FREE TO INTERACT WITH ME
 ~𝑭𝒐𝒍𝒍𝒐𝒘 𝒕𝒉𝒊𝒔 𝒘𝒂𝒄𝒉𝒂𝒏𝒏𝒆𝒍 𝒇𝒐𝒓 𝒃𝒐𝒕 𝒖𝒑𝒅𝒂𝒕𝒆𝒔~
 > https://whatsapp.com/channel/0029Vail87sIyPtQoZ2egl1h
 > https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y
