@@ -63,9 +63,16 @@ router.get('/', async (req, res) => {
 
 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
 
-*JBM-XMD SESSION CONNECTED*
+*JBKENY SESSION CONNECTED*
 
-❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒
+🌍 https://jbm.onrender.com
+🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
+connected
+⚡⚡⚡ This is powerful whatsapp
+enjoy ... fork it then deploy In heroku
+https://github.com/JBKENY/JBKENY
+powered by ☣🔰🔰🔰🔰
+JBKENY
 `
  await Pair_Code_By_France_King.sendMessage(Pair_Code_By_France_King.user.id,{text:FLASH_MD_TEXT},{quoted:session})
  
